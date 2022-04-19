@@ -12,6 +12,7 @@ BaselineOfMyBrowser >> baseline: spec [
 		do: [
 			spec package: 'MyBrowser'
 		]
+	
 ]
 
 { #category : #baselines }
